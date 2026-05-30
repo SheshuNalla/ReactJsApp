@@ -1,0 +1,2124 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Movie 1: Echo Horizon",
+      "genre": [
+        "Thriller",
+        "Adventure"
+      ],
+      "releaseYear": 2021,
+      "rating": 9.1,
+      "duration": "1h 37m",
+      "director": "Director 1",
+      "cast": [
+        "Evelyn Price",
+        "Ryan Cole",
+        "Nina Brooks",
+        "Jason Reed"
+      ],
+      "description": "A compelling thriller and adventure story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie1/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer01",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Emma Reed",
+          "rating": 3.4,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Noah Hayes",
+          "rating": 4.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Olivia Stone",
+          "rating": 3.9,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Ethan Clark",
+          "rating": 4.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Mia Turner",
+          "rating": 4.2,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Movie 2: Sky Horizon",
+      "genre": [
+        "Adventure",
+        "Comedy"
+      ],
+      "releaseYear": 2022,
+      "rating": 7.6,
+      "duration": "2h 31m",
+      "director": "Director 2",
+      "cast": [
+        "Aria Knight",
+        "Owen Blake",
+        "Chloe Hart",
+        "Mason Vale"
+      ],
+      "description": "A compelling adventure and comedy story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie2/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer02",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Noah Hayes",
+          "rating": 4.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Olivia Stone",
+          "rating": 4.0,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Ethan Clark",
+          "rating": 4.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Mia Turner",
+          "rating": 4.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Lucas Hill",
+          "rating": 4.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Movie 3: River Horizon",
+      "genre": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "releaseYear": 2023,
+      "rating": 7.6,
+      "duration": "2h 41m",
+      "director": "Director 3",
+      "cast": [
+        "Aiden Cross",
+        "Maya Bennett",
+        "Leo Hart",
+        "Zara Quinn"
+      ],
+      "description": "A compelling fantasy and comedy story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie3/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer03",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Olivia Stone",
+          "rating": 4.4,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Ethan Clark",
+          "rating": 4.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Mia Turner",
+          "rating": 3.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Lucas Hill",
+          "rating": 4.4,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Sophia Carter",
+          "rating": 4.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Movie 4: Quantum Horizon",
+      "genre": [
+        "Fantasy",
+        "Sci\u2011Fi"
+      ],
+      "releaseYear": 2024,
+      "rating": 6.9,
+      "duration": "2h 07m",
+      "director": "Director 4",
+      "cast": [
+        "Evelyn Price",
+        "Ryan Cole",
+        "Nina Brooks",
+        "Jason Reed"
+      ],
+      "description": "A compelling fantasy and sci\u2011fi story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie4/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer04",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Ethan Clark",
+          "rating": 4.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Mia Turner",
+          "rating": 3.0,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Lucas Hill",
+          "rating": 4.1,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Sophia Carter",
+          "rating": 3.7,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Liam Brooks",
+          "rating": 4.3,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Movie 5: Crimson Horizon",
+      "genre": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "releaseYear": 2025,
+      "rating": 8.7,
+      "duration": "1h 23m",
+      "director": "Director 5",
+      "cast": [
+        "Aria Knight",
+        "Owen Blake",
+        "Chloe Hart",
+        "Mason Vale"
+      ],
+      "description": "A compelling fantasy and comedy story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie5/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer05",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Mia Turner",
+          "rating": 4.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Lucas Hill",
+          "rating": 3.2,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Sophia Carter",
+          "rating": 3.4,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Liam Brooks",
+          "rating": 4.0,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Emma Reed",
+          "rating": 4.2,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Movie 6: Silver Horizon",
+      "genre": [
+        "Romance",
+        "Drama"
+      ],
+      "releaseYear": 2026,
+      "rating": 8.7,
+      "duration": "1h 07m",
+      "director": "Director 6",
+      "cast": [
+        "Aiden Cross",
+        "Maya Bennett",
+        "Leo Hart",
+        "Zara Quinn"
+      ],
+      "description": "A compelling romance and drama story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie6/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer06",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Lucas Hill",
+          "rating": 3.1,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Sophia Carter",
+          "rating": 3.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Liam Brooks",
+          "rating": 4.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Emma Reed",
+          "rating": 4.3,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Noah Hayes",
+          "rating": 4.0,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Movie 7: Midnight Horizon",
+      "genre": [
+        "Comedy",
+        "Sci\u2011Fi"
+      ],
+      "releaseYear": 2020,
+      "rating": 7.5,
+      "duration": "1h 05m",
+      "director": "Director 7",
+      "cast": [
+        "Evelyn Price",
+        "Ryan Cole",
+        "Nina Brooks",
+        "Jason Reed"
+      ],
+      "description": "A compelling comedy and sci\u2011fi story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie7/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer07",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Sophia Carter",
+          "rating": 4.7,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Liam Brooks",
+          "rating": 4.2,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Emma Reed",
+          "rating": 4.0,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Noah Hayes",
+          "rating": 4.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Olivia Stone",
+          "rating": 4.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Movie 8: Shadow Horizon",
+      "genre": [
+        "Mystery",
+        "Action"
+      ],
+      "releaseYear": 2021,
+      "rating": 7.5,
+      "duration": "2h 43m",
+      "director": "Director 8",
+      "cast": [
+        "Aria Knight",
+        "Owen Blake",
+        "Chloe Hart",
+        "Mason Vale"
+      ],
+      "description": "A compelling mystery and action story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie8/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer08",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Liam Brooks",
+          "rating": 4.2,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Emma Reed",
+          "rating": 3.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Noah Hayes",
+          "rating": 3.1,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Olivia Stone",
+          "rating": 4.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Ethan Clark",
+          "rating": 3.2,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Movie 9: Echo Horizon",
+      "genre": [
+        "Adventure",
+        "Action"
+      ],
+      "releaseYear": 2022,
+      "rating": 6.8,
+      "duration": "1h 00m",
+      "director": "Director 9",
+      "cast": [
+        "Aiden Cross",
+        "Maya Bennett",
+        "Leo Hart",
+        "Zara Quinn"
+      ],
+      "description": "A compelling adventure and action story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie9/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer09",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Emma Reed",
+          "rating": 4.0,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Noah Hayes",
+          "rating": 4.3,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Olivia Stone",
+          "rating": 3.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Ethan Clark",
+          "rating": 3.4,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Mia Turner",
+          "rating": 3.7,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Movie 10: Sky Horizon",
+      "genre": [
+        "Fantasy",
+        "Horror"
+      ],
+      "releaseYear": 2023,
+      "rating": 8.0,
+      "duration": "2h 52m",
+      "director": "Director 10",
+      "cast": [
+        "Evelyn Price",
+        "Ryan Cole",
+        "Nina Brooks",
+        "Jason Reed"
+      ],
+      "description": "A compelling fantasy and horror story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie10/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer10",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Noah Hayes",
+          "rating": 3.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Olivia Stone",
+          "rating": 4.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Ethan Clark",
+          "rating": 3.4,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Mia Turner",
+          "rating": 3.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Lucas Hill",
+          "rating": 3.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Movie 11: River Horizon",
+      "genre": [
+        "Fantasy",
+        "Thriller"
+      ],
+      "releaseYear": 2024,
+      "rating": 6.6,
+      "duration": "1h 42m",
+      "director": "Director 11",
+      "cast": [
+        "Aria Knight",
+        "Owen Blake",
+        "Chloe Hart",
+        "Mason Vale"
+      ],
+      "description": "A compelling fantasy and thriller story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie11/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer11",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Olivia Stone",
+          "rating": 4.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Ethan Clark",
+          "rating": 4.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Mia Turner",
+          "rating": 3.1,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Lucas Hill",
+          "rating": 3.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Sophia Carter",
+          "rating": 3.3,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Movie 12: Quantum Horizon",
+      "genre": [
+        "Fantasy",
+        "Sci\u2011Fi"
+      ],
+      "releaseYear": 2025,
+      "rating": 9.0,
+      "duration": "2h 54m",
+      "director": "Director 12",
+      "cast": [
+        "Aiden Cross",
+        "Maya Bennett",
+        "Leo Hart",
+        "Zara Quinn"
+      ],
+      "description": "A compelling fantasy and sci\u2011fi story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie12/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer12",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Ethan Clark",
+          "rating": 3.9,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Mia Turner",
+          "rating": 3.2,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Lucas Hill",
+          "rating": 4.0,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Sophia Carter",
+          "rating": 3.9,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Liam Brooks",
+          "rating": 4.3,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Movie 13: Crimson Horizon",
+      "genre": [
+        "Fantasy",
+        "Thriller"
+      ],
+      "releaseYear": 2026,
+      "rating": 8.3,
+      "duration": "1h 02m",
+      "director": "Director 13",
+      "cast": [
+        "Evelyn Price",
+        "Ryan Cole",
+        "Nina Brooks",
+        "Jason Reed"
+      ],
+      "description": "A compelling fantasy and thriller story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie13/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer13",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Mia Turner",
+          "rating": 4.4,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Lucas Hill",
+          "rating": 4.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Sophia Carter",
+          "rating": 3.9,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Liam Brooks",
+          "rating": 4.9,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Emma Reed",
+          "rating": 4.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Movie 14: Silver Horizon",
+      "genre": [
+        "Drama",
+        "Thriller"
+      ],
+      "releaseYear": 2020,
+      "rating": 7.2,
+      "duration": "2h 08m",
+      "director": "Director 14",
+      "cast": [
+        "Aria Knight",
+        "Owen Blake",
+        "Chloe Hart",
+        "Mason Vale"
+      ],
+      "description": "A compelling drama and thriller story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie14/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer14",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Lucas Hill",
+          "rating": 3.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Sophia Carter",
+          "rating": 4.7,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Liam Brooks",
+          "rating": 4.7,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Emma Reed",
+          "rating": 3.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Noah Hayes",
+          "rating": 3.2,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Movie 15: Midnight Horizon",
+      "genre": [
+        "Comedy",
+        "Horror"
+      ],
+      "releaseYear": 2021,
+      "rating": 8.9,
+      "duration": "1h 59m",
+      "director": "Director 15",
+      "cast": [
+        "Aiden Cross",
+        "Maya Bennett",
+        "Leo Hart",
+        "Zara Quinn"
+      ],
+      "description": "A compelling comedy and horror story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie15/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer15",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Sophia Carter",
+          "rating": 3.4,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Liam Brooks",
+          "rating": 4.9,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Emma Reed",
+          "rating": 3.4,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Noah Hayes",
+          "rating": 4.2,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Olivia Stone",
+          "rating": 3.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Movie 16: Shadow Horizon",
+      "genre": [
+        "Drama",
+        "Adventure"
+      ],
+      "releaseYear": 2022,
+      "rating": 8.1,
+      "duration": "2h 29m",
+      "director": "Director 16",
+      "cast": [
+        "Evelyn Price",
+        "Ryan Cole",
+        "Nina Brooks",
+        "Jason Reed"
+      ],
+      "description": "A compelling drama and adventure story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie16/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer16",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Liam Brooks",
+          "rating": 3.1,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Emma Reed",
+          "rating": 4.3,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Noah Hayes",
+          "rating": 3.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Olivia Stone",
+          "rating": 4.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Ethan Clark",
+          "rating": 4.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Movie 17: Echo Horizon",
+      "genre": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "releaseYear": 2023,
+      "rating": 6.8,
+      "duration": "2h 17m",
+      "director": "Director 17",
+      "cast": [
+        "Aria Knight",
+        "Owen Blake",
+        "Chloe Hart",
+        "Mason Vale"
+      ],
+      "description": "A compelling adventure and fantasy story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie17/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer17",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Emma Reed",
+          "rating": 4.0,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Noah Hayes",
+          "rating": 5.0,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Olivia Stone",
+          "rating": 3.1,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Ethan Clark",
+          "rating": 3.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Mia Turner",
+          "rating": 3.3,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Movie 18: Sky Horizon",
+      "genre": [
+        "Adventure",
+        "Thriller"
+      ],
+      "releaseYear": 2024,
+      "rating": 7.5,
+      "duration": "2h 18m",
+      "director": "Director 18",
+      "cast": [
+        "Aiden Cross",
+        "Maya Bennett",
+        "Leo Hart",
+        "Zara Quinn"
+      ],
+      "description": "A compelling adventure and thriller story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie18/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer18",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Noah Hayes",
+          "rating": 4.2,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Olivia Stone",
+          "rating": 3.9,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Ethan Clark",
+          "rating": 4.7,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Mia Turner",
+          "rating": 3.9,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Lucas Hill",
+          "rating": 4.3,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Movie 19: River Horizon",
+      "genre": [
+        "Action",
+        "Fantasy"
+      ],
+      "releaseYear": 2025,
+      "rating": 7.2,
+      "duration": "2h 02m",
+      "director": "Director 19",
+      "cast": [
+        "Evelyn Price",
+        "Ryan Cole",
+        "Nina Brooks",
+        "Jason Reed"
+      ],
+      "description": "A compelling action and fantasy story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie19/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer19",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Olivia Stone",
+          "rating": 5.0,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Ethan Clark",
+          "rating": 3.4,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Mia Turner",
+          "rating": 3.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Lucas Hill",
+          "rating": 4.7,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Sophia Carter",
+          "rating": 4.3,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Movie 20: Quantum Horizon",
+      "genre": [
+        "Fantasy",
+        "Romance"
+      ],
+      "releaseYear": 2026,
+      "rating": 9.1,
+      "duration": "1h 35m",
+      "director": "Director 20",
+      "cast": [
+        "Aria Knight",
+        "Owen Blake",
+        "Chloe Hart",
+        "Mason Vale"
+      ],
+      "description": "A compelling fantasy and romance story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie20/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer20",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Ethan Clark",
+          "rating": 4.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Mia Turner",
+          "rating": 3.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Lucas Hill",
+          "rating": 4.4,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Sophia Carter",
+          "rating": 4.2,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Liam Brooks",
+          "rating": 3.2,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Movie 21: Crimson Horizon",
+      "genre": [
+        "Thriller",
+        "Drama"
+      ],
+      "releaseYear": 2020,
+      "rating": 7.3,
+      "duration": "1h 03m",
+      "director": "Director 21",
+      "cast": [
+        "Aiden Cross",
+        "Maya Bennett",
+        "Leo Hart",
+        "Zara Quinn"
+      ],
+      "description": "A compelling thriller and drama story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie21/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer21",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Mia Turner",
+          "rating": 3.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Lucas Hill",
+          "rating": 3.0,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Sophia Carter",
+          "rating": 4.1,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Liam Brooks",
+          "rating": 3.4,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Emma Reed",
+          "rating": 3.2,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Movie 22: Silver Horizon",
+      "genre": [
+        "Mystery",
+        "Fantasy"
+      ],
+      "releaseYear": 2021,
+      "rating": 7.1,
+      "duration": "1h 19m",
+      "director": "Director 22",
+      "cast": [
+        "Evelyn Price",
+        "Ryan Cole",
+        "Nina Brooks",
+        "Jason Reed"
+      ],
+      "description": "A compelling mystery and fantasy story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie22/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer22",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Lucas Hill",
+          "rating": 4.0,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Sophia Carter",
+          "rating": 3.1,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Liam Brooks",
+          "rating": 3.2,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Emma Reed",
+          "rating": 3.9,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Noah Hayes",
+          "rating": 3.7,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Movie 23: Midnight Horizon",
+      "genre": [
+        "Thriller",
+        "Drama"
+      ],
+      "releaseYear": 2022,
+      "rating": 7.0,
+      "duration": "2h 25m",
+      "director": "Director 23",
+      "cast": [
+        "Aria Knight",
+        "Owen Blake",
+        "Chloe Hart",
+        "Mason Vale"
+      ],
+      "description": "A compelling thriller and drama story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie23/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer23",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Sophia Carter",
+          "rating": 3.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Liam Brooks",
+          "rating": 3.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Emma Reed",
+          "rating": 3.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Noah Hayes",
+          "rating": 3.7,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Olivia Stone",
+          "rating": 4.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Movie 24: Shadow Horizon",
+      "genre": [
+        "Adventure",
+        "Thriller"
+      ],
+      "releaseYear": 2023,
+      "rating": 8.7,
+      "duration": "2h 27m",
+      "director": "Director 24",
+      "cast": [
+        "Aiden Cross",
+        "Maya Bennett",
+        "Leo Hart",
+        "Zara Quinn"
+      ],
+      "description": "A compelling adventure and thriller story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie24/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer24",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Liam Brooks",
+          "rating": 3.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Emma Reed",
+          "rating": 3.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Noah Hayes",
+          "rating": 3.0,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Olivia Stone",
+          "rating": 4.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Ethan Clark",
+          "rating": 3.3,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Movie 25: Echo Horizon",
+      "genre": [
+        "Adventure",
+        "Action"
+      ],
+      "releaseYear": 2024,
+      "rating": 7.1,
+      "duration": "2h 08m",
+      "director": "Director 25",
+      "cast": [
+        "Evelyn Price",
+        "Ryan Cole",
+        "Nina Brooks",
+        "Jason Reed"
+      ],
+      "description": "A compelling adventure and action story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie25/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer25",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Emma Reed",
+          "rating": 4.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Noah Hayes",
+          "rating": 3.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Olivia Stone",
+          "rating": 4.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Ethan Clark",
+          "rating": 3.9,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Mia Turner",
+          "rating": 3.4,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Movie 26: Sky Horizon",
+      "genre": [
+        "Romance",
+        "Drama"
+      ],
+      "releaseYear": 2025,
+      "rating": 6.8,
+      "duration": "1h 04m",
+      "director": "Director 26",
+      "cast": [
+        "Aria Knight",
+        "Owen Blake",
+        "Chloe Hart",
+        "Mason Vale"
+      ],
+      "description": "A compelling romance and drama story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie26/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer26",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Noah Hayes",
+          "rating": 3.3,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Olivia Stone",
+          "rating": 3.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Ethan Clark",
+          "rating": 3.4,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Mia Turner",
+          "rating": 4.7,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Lucas Hill",
+          "rating": 4.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Movie 27: River Horizon",
+      "genre": [
+        "Adventure",
+        "Drama"
+      ],
+      "releaseYear": 2026,
+      "rating": 7.4,
+      "duration": "2h 31m",
+      "director": "Director 27",
+      "cast": [
+        "Aiden Cross",
+        "Maya Bennett",
+        "Leo Hart",
+        "Zara Quinn"
+      ],
+      "description": "A compelling adventure and drama story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie27/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer27",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Olivia Stone",
+          "rating": 4.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Ethan Clark",
+          "rating": 4.4,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Mia Turner",
+          "rating": 3.7,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Lucas Hill",
+          "rating": 3.7,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Sophia Carter",
+          "rating": 3.9,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Movie 28: Quantum Horizon",
+      "genre": [
+        "Drama",
+        "Adventure"
+      ],
+      "releaseYear": 2020,
+      "rating": 8.6,
+      "duration": "1h 49m",
+      "director": "Director 28",
+      "cast": [
+        "Evelyn Price",
+        "Ryan Cole",
+        "Nina Brooks",
+        "Jason Reed"
+      ],
+      "description": "A compelling drama and adventure story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie28/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer28",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Ethan Clark",
+          "rating": 4.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Mia Turner",
+          "rating": 4.1,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Lucas Hill",
+          "rating": 4.3,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Sophia Carter",
+          "rating": 4.9,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Liam Brooks",
+          "rating": 4.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Movie 29: Crimson Horizon",
+      "genre": [
+        "Action",
+        "Romance"
+      ],
+      "releaseYear": 2021,
+      "rating": 8.9,
+      "duration": "2h 24m",
+      "director": "Director 29",
+      "cast": [
+        "Aria Knight",
+        "Owen Blake",
+        "Chloe Hart",
+        "Mason Vale"
+      ],
+      "description": "A compelling action and romance story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie29/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer29",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Mia Turner",
+          "rating": 4.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Lucas Hill",
+          "rating": 3.1,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Sophia Carter",
+          "rating": 3.4,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Liam Brooks",
+          "rating": 3.4,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Emma Reed",
+          "rating": 3.4,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Movie 30: Silver Horizon",
+      "genre": [
+        "Comedy",
+        "Thriller"
+      ],
+      "releaseYear": 2022,
+      "rating": 7.3,
+      "duration": "1h 32m",
+      "director": "Director 30",
+      "cast": [
+        "Aiden Cross",
+        "Maya Bennett",
+        "Leo Hart",
+        "Zara Quinn"
+      ],
+      "description": "A compelling comedy and thriller story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie30/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer30",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Lucas Hill",
+          "rating": 4.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Sophia Carter",
+          "rating": 4.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Liam Brooks",
+          "rating": 3.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Emma Reed",
+          "rating": 4.3,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Noah Hayes",
+          "rating": 3.2,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Movie 31: Midnight Horizon",
+      "genre": [
+        "Drama",
+        "Sci\u2011Fi"
+      ],
+      "releaseYear": 2023,
+      "rating": 8.1,
+      "duration": "1h 25m",
+      "director": "Director 31",
+      "cast": [
+        "Evelyn Price",
+        "Ryan Cole",
+        "Nina Brooks",
+        "Jason Reed"
+      ],
+      "description": "A compelling drama and sci\u2011fi story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie31/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer31",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Sophia Carter",
+          "rating": 3.2,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Liam Brooks",
+          "rating": 3.1,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Emma Reed",
+          "rating": 4.3,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Noah Hayes",
+          "rating": 4.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Olivia Stone",
+          "rating": 3.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Movie 32: Shadow Horizon",
+      "genre": [
+        "Fantasy",
+        "Drama"
+      ],
+      "releaseYear": 2024,
+      "rating": 6.9,
+      "duration": "2h 09m",
+      "director": "Director 32",
+      "cast": [
+        "Aria Knight",
+        "Owen Blake",
+        "Chloe Hart",
+        "Mason Vale"
+      ],
+      "description": "A compelling fantasy and drama story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie32/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer32",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Liam Brooks",
+          "rating": 4.1,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Emma Reed",
+          "rating": 5.0,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Noah Hayes",
+          "rating": 3.9,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Olivia Stone",
+          "rating": 3.7,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Ethan Clark",
+          "rating": 3.9,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Movie 33: Echo Horizon",
+      "genre": [
+        "Horror",
+        "Fantasy"
+      ],
+      "releaseYear": 2025,
+      "rating": 7.4,
+      "duration": "2h 19m",
+      "director": "Director 33",
+      "cast": [
+        "Aiden Cross",
+        "Maya Bennett",
+        "Leo Hart",
+        "Zara Quinn"
+      ],
+      "description": "A compelling horror and fantasy story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie33/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer33",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Emma Reed",
+          "rating": 4.1,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Noah Hayes",
+          "rating": 4.2,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Olivia Stone",
+          "rating": 4.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Ethan Clark",
+          "rating": 3.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Mia Turner",
+          "rating": 4.7,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Movie 34: Sky Horizon",
+      "genre": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "releaseYear": 2026,
+      "rating": 7.7,
+      "duration": "2h 50m",
+      "director": "Director 34",
+      "cast": [
+        "Evelyn Price",
+        "Ryan Cole",
+        "Nina Brooks",
+        "Jason Reed"
+      ],
+      "description": "A compelling comedy and fantasy story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie34/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer34",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Noah Hayes",
+          "rating": 4.4,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Olivia Stone",
+          "rating": 3.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Ethan Clark",
+          "rating": 3.2,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Mia Turner",
+          "rating": 3.2,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Lucas Hill",
+          "rating": 4.3,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Movie 35: River Horizon",
+      "genre": [
+        "Mystery",
+        "Adventure"
+      ],
+      "releaseYear": 2020,
+      "rating": 8.8,
+      "duration": "2h 08m",
+      "director": "Director 35",
+      "cast": [
+        "Aria Knight",
+        "Owen Blake",
+        "Chloe Hart",
+        "Mason Vale"
+      ],
+      "description": "A compelling mystery and adventure story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie35/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer35",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Olivia Stone",
+          "rating": 5.0,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Ethan Clark",
+          "rating": 4.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Mia Turner",
+          "rating": 4.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Lucas Hill",
+          "rating": 3.7,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Sophia Carter",
+          "rating": 3.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Movie 36: Quantum Horizon",
+      "genre": [
+        "Adventure",
+        "Sci\u2011Fi"
+      ],
+      "releaseYear": 2021,
+      "rating": 7.0,
+      "duration": "2h 47m",
+      "director": "Director 36",
+      "cast": [
+        "Aiden Cross",
+        "Maya Bennett",
+        "Leo Hart",
+        "Zara Quinn"
+      ],
+      "description": "A compelling adventure and sci\u2011fi story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie36/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer36",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Ethan Clark",
+          "rating": 4.1,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Mia Turner",
+          "rating": 3.9,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Lucas Hill",
+          "rating": 3.1,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Sophia Carter",
+          "rating": 3.3,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Liam Brooks",
+          "rating": 4.3,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Movie 37: Crimson Horizon",
+      "genre": [
+        "Comedy",
+        "Mystery"
+      ],
+      "releaseYear": 2022,
+      "rating": 7.3,
+      "duration": "2h 11m",
+      "director": "Director 37",
+      "cast": [
+        "Evelyn Price",
+        "Ryan Cole",
+        "Nina Brooks",
+        "Jason Reed"
+      ],
+      "description": "A compelling comedy and mystery story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie37/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer37",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Mia Turner",
+          "rating": 4.9,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Lucas Hill",
+          "rating": 3.4,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Sophia Carter",
+          "rating": 3.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Liam Brooks",
+          "rating": 4.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Emma Reed",
+          "rating": 3.0,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Movie 38: Silver Horizon",
+      "genre": [
+        "Mystery",
+        "Sci\u2011Fi"
+      ],
+      "releaseYear": 2023,
+      "rating": 7.1,
+      "duration": "2h 50m",
+      "director": "Director 38",
+      "cast": [
+        "Aria Knight",
+        "Owen Blake",
+        "Chloe Hart",
+        "Mason Vale"
+      ],
+      "description": "A compelling mystery and sci\u2011fi story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie38/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer38",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Lucas Hill",
+          "rating": 4.1,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Sophia Carter",
+          "rating": 3.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Liam Brooks",
+          "rating": 4.9,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Emma Reed",
+          "rating": 4.7,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Noah Hayes",
+          "rating": 3.6,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Movie 39: Midnight Horizon",
+      "genre": [
+        "Mystery",
+        "Romance"
+      ],
+      "releaseYear": 2024,
+      "rating": 8.5,
+      "duration": "1h 45m",
+      "director": "Director 39",
+      "cast": [
+        "Aiden Cross",
+        "Maya Bennett",
+        "Leo Hart",
+        "Zara Quinn"
+      ],
+      "description": "A compelling mystery and romance story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie39/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer39",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Sophia Carter",
+          "rating": 4.7,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Liam Brooks",
+          "rating": 4.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Emma Reed",
+          "rating": 4.2,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Noah Hayes",
+          "rating": 3.9,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Olivia Stone",
+          "rating": 3.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Movie 40: Shadow Horizon",
+      "genre": [
+        "Drama",
+        "Mystery"
+      ],
+      "releaseYear": 2025,
+      "rating": 7.5,
+      "duration": "2h 23m",
+      "director": "Director 40",
+      "cast": [
+        "Evelyn Price",
+        "Ryan Cole",
+        "Nina Brooks",
+        "Jason Reed"
+      ],
+      "description": "A compelling drama and mystery story that follows a group of characters facing unexpected challenges. As secrets emerge and relationships evolve, they must make difficult choices that shape their future. The film balances emotion, suspense, and memorable moments while exploring themes of courage, trust, and personal growth.",
+      "thumbnail": "https://picsum.photos/seed/movie40/800/450",
+      "trailer": "https://www.youtube.com/watch?v=trailer40",
+      "reviews": [
+        {
+          "id": 1,
+          "reviewer": "Liam Brooks",
+          "rating": 5.0,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 2,
+          "reviewer": "Emma Reed",
+          "rating": 3.7,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 3,
+          "reviewer": "Noah Hayes",
+          "rating": 3.5,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 4,
+          "reviewer": "Olivia Stone",
+          "rating": 4.8,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        },
+        {
+          "id": 5,
+          "reviewer": "Ethan Clark",
+          "rating": 4.7,
+          "comment": "I enjoyed many parts of this movie, especially the performances and pacing. While a few scenes felt predictable, the overall experience was engaging and worth watching. The story stayed grounded and the ending was satisfying."
+        }
+      ]
+    }
+  ]
+}
