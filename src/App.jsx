@@ -1,5 +1,6 @@
 import React, { useActionState, useEffect, useState } from "react"
 import Search from "./components/Search"
+import Spinner from "./components/spinner"
 
 const API_URL = "http://localhost:3000/movies";
 
@@ -28,7 +29,7 @@ const App = () => {
       }
 
       const data = await response.json();
-      //console.log(data);
+      console.log(data);
 
       if(data.response === 'false'){
         setErrorMsg(data.Error || 'Failed to fetch Movies');
@@ -36,7 +37,7 @@ const App = () => {
         return;
       }
 
-      setMovieList(data.results || [])
+      setMovieList(data || [])
 
     }catch(error){
       console.error(`Error fetching movies ${error}`);
@@ -62,9 +63,23 @@ const App = () => {
           <Search searchTerm = {searchTerm} setSearchTerm = {setSearchTerm}/>
         </header>
         <section className="all-movies">
-          <h1>All movies</h1>
-
-          {errorMsg && <p className="text-red-500">{errorMsg}</p>}
+          <h2>All movies</h2>
+          {isLoading ? (
+            <Spinner />
+          ) : errorMsg ? (
+            <p className="text-red-500">{errorMsg}</p>
+          ) : (
+            <ul>
+              {movieList.map((movie) =>(
+                <div id={movie.id}>
+                  <img src={movie.thumbnail}></img>
+                  <p className="text-white">{movie.title.slice(9)}</p>
+                  <p className="text-white">{movie.rating}</p>
+                  <a target="_blank" href={movie.trailer} className="text-white hover:underline">{movie.trailer}</a>
+                </div>
+              ))}
+            </ul>
+          )}
         </section>
       </div>
     </main>
