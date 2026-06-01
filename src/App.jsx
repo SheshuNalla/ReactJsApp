@@ -1,6 +1,7 @@
 import React, { useActionState, useEffect, useState } from "react"
 import Search from "./components/Search"
 import Spinner from "./components/spinner"
+import MovieCard from "./components/MovieCard";
 
 const API_URL = "http://localhost:3000/movies";
 
@@ -71,12 +72,7 @@ const App = () => {
           ) : (
             <ul>
               {movieList.map((movie) =>(
-                <div id={movie.id}>
-                  <img src={movie.thumbnail}></img>
-                  <p className="text-white">{movie.title.slice(9)}</p>
-                  <p className="text-white">{movie.rating}</p>
-                  <a target="_blank" href={movie.trailer} className="text-white hover:underline">{movie.trailer}</a>
-                </div>
+                <MovieCard key={movie.id} movie={movie} />
               ))}
             </ul>
           )}
