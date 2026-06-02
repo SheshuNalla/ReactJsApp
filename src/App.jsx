@@ -18,7 +18,7 @@ const App = () => {
   const [movieList, setMovieList] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
 
-  const fetchMovies = async () => {
+  const fetchMovies = async (query = '') => {
     setIsLoading(true);
     setErrorMsg('');
 
@@ -30,19 +30,18 @@ const App = () => {
       }
 
       const data = await response.json();
-      console.log(data);
 
-      if(data.response === 'false'){
-        setErrorMsg(data.Error || 'Failed to fetch Movies');
-        setMovieList([]);
-        return;
-      }
+      const filteredMovies = query ? data.filter((movie) => 
+      movie.title.toLocaleLowerCase().includes(query.toLocaleLowerCase())
+      ) 
+      : data;
 
-      setMovieList(data || [])
+      setMovieList(filteredMovies)
 
     }catch(error){
       console.error(`Error fetching movies ${error}`);
-      setErrorMsg("Error fetching movies. Please try again later.")
+      setErrorMsg("Error fetching movies. Please try again later.");
+      setMovieList([]);
     }
     finally{
       setIsLoading(false);
@@ -50,8 +49,8 @@ const App = () => {
   }
 
   useEffect(() => {
-    fetchMovies();
-  }, [])
+    fetchMovies(searchTerm);
+  }, [searchTerm])
   
 
   return (
