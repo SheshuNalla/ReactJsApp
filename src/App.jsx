@@ -48,9 +48,13 @@ const App = () => {
     }
   }
 
+  // added debouncing for optimize search functionality:
   useEffect(() => {
-    fetchMovies(searchTerm);
-  }, [searchTerm])
+    const timer = setTimeout(() => {
+      fetchMovies(searchTerm)
+    },500);
+    return() => clearTimeout(timer);
+  },[searchTerm]);
   
 
   return (
