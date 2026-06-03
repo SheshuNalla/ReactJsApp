@@ -2,6 +2,7 @@ import React, { useActionState, useEffect, useState } from "react"
 import Search from "./components/Search"
 import Spinner from "./components/spinner"
 import MovieCard from "./components/MovieCard";
+import { updateSearchCount } from "./appwrite";
 
 const API_URL = "http://localhost:3000/movies";
 
@@ -37,6 +38,10 @@ const App = () => {
       : data;
 
       setMovieList(filteredMovies)
+      
+      if(query && filteredMovies.length > 0){
+        await updateSearchCount(query, filteredMovies[0])
+      }
 
     }catch(error){
       console.error(`Error fetching movies ${error}`);
