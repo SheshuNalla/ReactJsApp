@@ -39,6 +39,7 @@ const App = () => {
 
       setMovieList(filteredMovies)
       
+      
       if(query && filteredMovies.length > 0){
         await updateSearchCount(query, filteredMovies[0])
       }
