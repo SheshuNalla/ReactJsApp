@@ -14,7 +14,7 @@ const database = new TablesDB(client);
 
 export const updateSearchCount = async (searchTerm, movie) => {
     // 1.Use the Appwrite API to cehck if the searchTearm exists in the database
-    
+
     try{
         const result = await database.listRows(DATABASE_ID, TABLE_ID, [
             Query.equal('searchTerm', searchTerm),
@@ -43,4 +43,17 @@ export const updateSearchCount = async (searchTerm, movie) => {
     }
     
     
+}
+
+export const getTrendingMovies = async () => {
+    try{
+        const result = await database.listRows(DATABASE_ID, TABLE_ID, [
+            Query.limit(5),
+            Query.orderDesc("count")
+        ])
+        return result.rows;
+    }
+    catch(error){
+        console.error(error);
+    }
 }

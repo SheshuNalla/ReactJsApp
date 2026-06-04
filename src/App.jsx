@@ -2,7 +2,7 @@ import React, { useActionState, useEffect, useState } from "react"
 import Search from "./components/Search"
 import Spinner from "./components/spinner"
 import MovieCard from "./components/MovieCard";
-import { updateSearchCount } from "./appwrite";
+import { getTrendingMovies, updateSearchCount } from "./appwrite";
 
 const API_URL = "http://localhost:3000/movies";
 
@@ -18,6 +18,7 @@ const App = () => {
   const [errorMsg, setErrorMsg] = useState("");
   const [movieList, setMovieList] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
+  const [trendingMovies, setTrendingMovies] = useState([]);
 
   const fetchMovies = async (query = '') => {
     setIsLoading(true);
@@ -54,6 +55,17 @@ const App = () => {
     }
   }
 
+  const loadTrendingMovies = async () => {
+    try {
+      const movies = await getTrendingMovies();
+
+      setTrendingMovies(movies);
+      
+    } catch (error) {
+      console.error(`Error fetching trending movies ${error}`)
+    }
+  }
+
   // added debouncing for optimize search functionality:
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -62,6 +74,9 @@ const App = () => {
     return() => clearTimeout(timer);
   },[searchTerm]);
   
+  useEffect(() => {
+    loadTrendingMovies();
+  },[])
 
   return (
     <main>
@@ -72,6 +87,23 @@ const App = () => {
           <h1>Find <span className="text-gradient">Movies </span>You'll Enjoy Without the Hassle</h1>
           <Search searchTerm = {searchTerm} setSearchTerm = {setSearchTerm}/>
         </header>
+
+        {trendingMovies.length > 0 && (
+          <section className="trending">
+            <h2>Trending Movies</h2>
+            
+
+            <ul>
+              {trendingMovies.map((movie, index) => (
+                <li key={movie.$id}>
+                  <p>{index + 1}</p>
+                  <img src={movie.poster_url} alt={movie.title} />
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
         <section className="all-movies">
           <h2>All movies</h2>
           {isLoading ? (
