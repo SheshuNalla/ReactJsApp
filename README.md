@@ -18,7 +18,7 @@
   </div>
 
 
-  ## <a name="tech-stack">⚙️ Tech Stack</a>
+  ## <a name="tech-stack"> Tech Stack</a>
 
 - **[Appwrite](https://appwrite.io/)** is an open-source Backend-as-a-Service (BaaS) platform that provides developers with a set of APIs to manage authentication, databases, storage, and more, enabling rapid development of secure and scalable applications.
 
@@ -31,7 +31,7 @@
 - **[Vite](https://vite.dev/)** is a modern build tool that provides a fast development environment for frontend projects. It offers features like hot module replacement (HMR) and optimized builds, enhancing the development experience and performance.
 
 
-## <a name="features">🔋 Features</a>
+## <a name="features"> Features</a>
 
  **Browse All Movies**: Explore a wide range of movies available on the platform.
 
