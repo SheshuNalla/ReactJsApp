@@ -1,4 +1,9 @@
 <div align="center">
+<div>
+    Movie Explorer
+</div>
   <br />
-    <img src="./public/homePage.png"/>
+    <div>
+        <img src="./public/homePage.png"/>
+    </div>
   <br />
