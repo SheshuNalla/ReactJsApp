@@ -2,8 +2,11 @@
 <div align="center" >
   <br />
     <div>
+        <h1>Home Page</h1>
         <img src="./public/homePage.png"/>
+        <h1>Trending Section</h1>
         <img src="./public/trendingPage.png"/>
+        <h1>All Movies</h1>
         <img src="./public/allMovies.png"/>
     </div>
   <br />
@@ -30,14 +33,14 @@
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Browse All Movies**: Explore a wide range of movies available on the platform.
+ **Browse All Movies**: Explore a wide range of movies available on the platform.
 
-👉 **Search Movies**: Easily search for specific movies using a search function.
+ **Search Movies**: Easily search for specific movies using a search function.
 
-👉 **Trending Movies Algorithm**: Displays trending movies based on a dynamic algorithm.
+ **Trending Movies Algorithm**: Displays trending movies based on a dynamic algorithm.
 
-👉 **Modern UI/UX**: A sleek and user-friendly interface designed for a great experience.
+ **Modern UI/UX**: A sleek and user-friendly interface designed for a great experience.
 
-👉 **Responsiveness**: Fully responsive design that works seamlessly across devices.
+ **Responsiveness**: Fully responsive design that works seamlessly across devices.
 
 and many more, including code architecture and reusability
