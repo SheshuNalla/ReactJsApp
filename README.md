@@ -1,4 +1,4 @@
 <div align="center">
   <br />
-    <img src="./homePage.png"/>
+    <img src="./public/homePage.png"/>
   <br />
